@@ -2,3 +2,7 @@ numpy
 sympy
 seaborn
 statsmodels
+pandas
+numba
+jax
+jaxlib
