@@ -2,7 +2,7 @@
 Research and experiments building up to an implementation of a reinforcement learning trader based on work by Moody and Saffell [1]
 
 ## Notebooks
-* 1_linreg_mse_grad_descent - DIY gradient descent for MSE of regression.
+* *1_linreg_mse_grad_descent* - DIY gradient descent for MSE of regression.
 * 2_sympy_partial_derivatives - Symbolicly derive partial derivatives for MSE using Python Sympy library.
 * 3.1_reinforcement_trading_offline_simple - Implementation of offline trader from [1]. Learns an ARIMA style model using a DIY 1 layer neural network and tanh activation.
 * 3.1_reinforcement_trading_offline_simple_derivs - Derivatives for above notebook.
